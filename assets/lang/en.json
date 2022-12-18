@@ -1,0 +1,28 @@
+{
+  "app_name" : "Light Speed",
+  "dashboard" : "Dashboard",
+  "on_progress_orders" : "Delivery orders",
+  "delivered_orders" : "Delivered orders",
+  "canceled_orders" : "Canceled orders",
+  "all_orders" : "All orders",
+  "orders" : "Orders",
+  "no_orders_found" : "No Orders Found",
+  "iqd" : "Iqd",
+  "no_today" : "No orders today",
+  "today" : "Today",
+  "last_week" : "Last week",
+  "no_last_week" : "No orders last week",
+  "order" : "Orders",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "home" : "Home",
+  "messages" : "Messages",
+  "settings" : "Settings",
+  "logout" : "Logout",
+  "governorate" : "Governorate : ",
+  "phone" : "Phone Number : ",
+  "note" : "Notes : ",
+  "customer" : "Customer : ",
+  "address" : "Address : "
+
+}
